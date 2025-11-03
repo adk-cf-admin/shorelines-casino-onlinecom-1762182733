@@ -1,0 +1,205 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#006594",
+            "welcome-bonus-bg": "#87CADE",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#ffffff",
+            "text": "#120D3A",
+            "text-black": "#ffffff",
+            "table-head": "#006594",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#ED2924",
+            "yellow": "#006594",
+            "yellow-button": "#ED2924",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#87CADE",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#006594",
+            "faq-label": "#87CADE",
+            "bg-footer": "#006594",
+            "copyright": "#e7e7d5",
+            "starColor": "#87CADE",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/11",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Shorelines Casino",
+            "title": "Shorelines Casino | Slots, Table Games, Dining & Rewards",
+            "description": "Shorelines Casino offers modern gaming with slots, table games, an online platform, restaurants, bars, and live entertainment. Enjoy loyalty rewards, bonuses, and a complete leisure experience!",
+            "canonical": "shorelines-casino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/325",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/326",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/327"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/324",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Shorelines Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Shorelines Casino \u2014 Gaming, Entertainment & Comfort in One Place",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/328",
+            "imageSizeModifier": 20,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/329",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slots and table games",
+                "Modern design and comfortable atmosphere",
+                "Loyalty program with bonuses and promotions",
+                "Online gaming with fast payouts and support",
+                "Restaurants and bars offering diverse menus",
+                "Safe and regulated gaming environment",
+                "Convenient location with free parking"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Shorelines Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/330",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Shorelines Casino App",
+            "mobileGooglePlayImageTitle": "Shorelines Casino App",
+            "mobileIosImageTitle": "Shorelines Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Shorelines Casino",
+                "description1": "",
+                "items": [
+                    "Bonus up to $500 for newcomers",
+                    "Jackpots over $100,000 every day",
+                    "Weekly promotions with big prizes"
+                ],
+                "description2": "Shorelines Casino is a modern gaming destination offering a wide range of entertainment for casino enthusiasts. It combines stylish design, a comfortable atmosphere, and excellent service. The casino features slots, table games, and electronic tables, along with a convenient online platform.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/331",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " Guests can enjoy restaurants, bars, and live entertainment. Safety and fairness are ensured through strict standards. It\u2019s a place where excitement meets comfort and quality."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Shorelines Casino \u2014 A World of Thrill and Comfort",
+                "description": "<p> Shorelines Casino is a modern entertainment hub that combines gaming excitement, fine dining, and a welcoming atmosphere. Guests can enjoy spacious gaming floors featuring hundreds of slot machines and numerous tables for classic games like blackjack, roulette, and baccarat. The casino is known for its stylish design and friendly vibe, making it perfect for both beginners and seasoned players.<\/p>\n<br>\n<p> For food lovers, Shorelines Casino offers bars and restaurants, including the popular Getaway Restaurant, where guests can savor diverse menus and drinks. After an exciting game session, visitors can relax in cozy lounge areas with a cocktail. Some locations partner with nearby hotels, ensuring maximum comfort for travelers and out-of-town guests.<\/p>\n<br>\n<p> The casino frequently hosts entertainment events and themed nights, creating a festive atmosphere. Live performances, special promotions, and big prize draws make every visit unique. Sports fans can enjoy live match broadcasts in bars, while those seeking a calm retreat can unwind in lounge zones.<\/p>\n<br>\n<p> Bonus programs are a major highlight. New players receive welcome bonuses of up to $500, while regular guests participate in weekly promotions with big prizes and jackpots that can exceed $100,000. The loyalty program allows members to earn points and redeem them for free play, dinners, or exclusive gifts.<\/p>\n<br>\n<p>Shorelines Casino is more than just a gaming venue \u2014 it\u2019s a full-scale entertainment destination where everyone can find something to enjoy. Comfort, safety, and generous winnings make it one of the top casinos in the region.<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nShorelines Casino Visitor Guidelines\n<\/h3>\n\n<p> Visiting Shorelines Casino requires following certain rules to ensure comfort and safety for all guests. The casino promotes responsible gaming and provides an environment where everyone can feel secure and enjoy their experience. Before your visit, it\u2019s important to review the main requirements for a smooth stay.<\/p>\n<br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">General Rules and Conditions<\/h4>\n     <ul>\n            <li>\u2022 Minimum age for entry is 19, with valid ID required.\n<\/li>\n            <li>\u2022 Weapons, drugs, and outside beverages are strictly prohibited.\n<\/li>\n            <li>\u2022 Photography and video recording in gaming areas are limited to protect guest privacy.\n\n<\/li>\n        <\/ul>\n        <br>\n\n     \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n        <ul>\n            <li>\u2022 Neat, casual or smart casual attire is recommended.\n<\/li>\n            <li>\u2022 Beachwear, sports outfits, torn clothing, and overly revealing attire are not allowed.\n<\/li>\n            <li>\u2022 Footwear should be closed and in good condition.\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n<\/div>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Visitation Terms<\/h4>\n        <ul>\n            <li>\u2022 Guests must follow responsible gaming practices and avoid disturbing others.\n<\/li>\n            <li>\u2022 Management reserves the right to deny entry to anyone visibly intoxicated.\n<\/li>\n            <li>\u2022 All winnings are paid according to official rules and upon presenting valid identification.\n\n<\/li>\n        <\/ul>\n        <br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nAxis Rewards \u2014 Your Privilege at Shorelines Casino\n<\/h3>\n\n<p> The Shorelines Casino loyalty program, Axis Rewards, is designed to reward regular players for their activity. It works on a point-based system where members earn points by playing slots, video poker, and table games. The more you play, the higher your tier and the greater the benefits. Axis Rewards features four tiers, from entry-level to premium, each unlocking exclusive bonuses, personalized offers, and privileges. Members enjoy welcome bonuses, weekly promotions, accelerated point accumulation, and special VIP events. Top tiers offer access to personal hosts, invitations to private events, and exclusive gifts. The program runs on an annual cycle, requiring players to maintain activity to keep their status.<\/p>\n<br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Axis Rewards Benefits<\/h4>\n           <ul>\n            <li>\u2022 Welcome bonus up to $500 for new members\n<\/li>\n            <li>\u2022 Weekly promotions and big prize draws\n<\/li>\n            <li>\u2022 Higher point multipliers at advanced tiers\n<\/li>\n<li>\u2022 Access to VIP events and personal hosts\n\n<\/li>\n        <\/ul>\n        <br>\n\n  \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">How Points Are Earned\n\n<\/h4>\n        <ul>\n            <li>\u2022 Slots: 1 point per $1 wagered\n<\/li>\n            <li>\u2022 Video Poker: 1 point per $1 wagered\n<\/li>\n            <li>\u2022 Points accumulate over 12 months for tier upgrades\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n<\/div>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Program Tiers\n\n<\/h4>\n        <ul>\n            <li>\u2022 Blue \u2014 entry-level for all members\n<\/li>\n            <li>\u2022 Silver \u2014 extra discounts and bonuses\n<\/li>\n            <li>\u2022 Gold \u2014 exclusive offers and faster point accumulation\n<\/li>\n<li>\u2022 Platinum \u2014 top privileges, VIP service, and personalized gifts\n\n<\/li>\n        <\/ul>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Shorelines Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Entertainment at Shorelines Casino\n<\/h3>\n\n<p> Shorelines Casino offers players not only thrilling games but also a wide range of bonuses, special deals, and seasonal events. Every visit can be unique thanks to regular promotions, prize draws, and themed nights. Guests enjoy generous welcome bonuses, weekly cash prizes, and exclusive offers for slot and table game enthusiasts. The casino also hosts festive events, live music, and entertainment shows to create a vibrant atmosphere. The online platform provides exclusive bonuses and free spins for new players. Seasonal promotions include cruise discounts, Caribbean getaways, and special jackpot draws. Shorelines Casino is more than a gaming venue\u2014it\u2019s a complete entertainment destination.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Examples of Bonuses and Offers<\/h4>\n\n        <ul>\n            <li>\u2022 Online Welcome Bonus: 100% up to $750 + 200 Free Spins + 1 Bonus Game<\/li>\n            <li>\u2022 New Member Offer: Win up to $2,500 Slot Play upon registration<\/li>\n            <li>\u2022 Money Mondays: Up to $500 Slot Play every Monday on slots<\/li>\n            <li>\u2022 Grand Finale Draw: Monthly prize draw for up to $10,000 cash<\/li>\n\t    <li>\u2022 Seasonal Deals: Up to 15% cruise savings and travel perks<\/li>\n            <li>\u2022 Jackpot Party: Themed parties with jackpot draws and gifts<\/li>\n\t   \n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Shorelines Casino\n<\/h3>\n\n<p> Shorelines Casino offers a wide range of games designed to satisfy both slot enthusiasts and fans of classic table entertainment. The gaming floor features hundreds of modern slot machines with diverse themes and features, including progressive jackpots. For those who enjoy strategy and excitement, table games like blackjack, roulette, baccarat, and poker are available. The casino also provides electronic tables, perfect for beginners who prefer a relaxed pace. Shorelines\u2019 online platform expands the experience, allowing players to enjoy slots, video poker, and live dealer games from anywhere in Ontario. All games are monitored for fairness and security, ensuring a safe and thrilling experience.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular Games at Shorelines Casino<\/h4>\n\n\n        <ul>\n            <li>\u2022 Slots: classic machines, video slots, progressive jackpots\n<\/li>\n            <li>\u2022 Blackjack: traditional and variations, including Spanish 21\n<\/li>\n            <li>\u2022 Roulette: European and American versions\n<\/li>\n            <li>\u2022 Baccarat: a favorite for high-stakes players\n<\/li>\n\t    <li>\u2022 Poker: Ultimate Texas Hold\u2019Em and other variants\n<\/li>\n   <li>\u2022 Electronic Tables: play at your own pace\n<\/li>\n            <li>\u2022 Live Dealer: authentic experience with real dealers online\n\n<\/li>\n         \n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Shorelines Casino\n<\/h3>\n\n<p> Shorelines Casino offers flexible betting options for players of all levels. Minimum bets make it easy for beginners to start playing without risk, while maximum limits provide opportunities for big wins. Slot machines feature low entry points, and table games offer higher stakes for thrill-seekers. This structure ensures an enjoyable experience for both casual and high-roller players.<\/p>\n\n<br>\n\n\n\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#87CADE; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $1,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $2,000 <\/td>\n                <\/tr>\n               \n            <\/tbody>\n        <\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntertainment and Shows at Shorelines Casino\n<\/h3>\n\n<p> Shorelines Casino is more than just gaming \u2014 it\u2019s a full-scale entertainment destination where every visit feels like a celebration. The casino regularly hosts live music nights featuring popular cover bands, creating an atmosphere of fun and excitement. Guests can enjoy rock, jazz, and pop performances and dance until midnight. These events are often free of charge, making them accessible to all visitors.<\/p>\n<br>\n<p> Special themed nights and exclusive shows add variety to the experience. The casino organizes festive programs for major holidays, including New Year\u2019s parties, concerts, and prize draws. For nightlife lovers, there are bars with live music, cocktail menus, and dance floors. Some locations even host \u201cNight Out\u201d parties, blending casino thrills with club vibes and DJ sets.<\/p>\n<br>\n<p> Additionally, Shorelines Casino offers unique events for Axis Rewards members, such as private parties, VIP shows, and special prize draws. Guests can combine gaming with culinary delights at the Getaway Restaurant or buffet and then head to a concert or dance party. This combination makes the casino an ideal destination for those seeking a complete entertainment experience.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Entertainment at Shorelines Casino<\/h4>\n\n\n        <ul>\n            <li>\u2022 Live Music \u2014 regular concerts by cover bands and popular artists.<\/li>\n            <li>\u2022 Themed Parties \u2014 holiday celebrations, seasonal shows, and special promotions.\n<\/li>\n            <li>\u2022 DJ Nights \u2014 dancing and club vibes until late night.\n<\/li>\n            <li>\u2022 VIP Events \u2014 exclusive parties for Axis Rewards members.\n<\/li>\n\t    <li>\u2022 Prize Draws & Promotions \u2014 weekly and holiday contests with big prizes.\n<\/li>\n <li>\u2022 Dining & Bars \u2014 restaurants and bars offering diverse menus.\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDining and Relaxation at Shorelines Casino\n<\/h3>\n\n<p> Shorelines Casino offers guests more than gaming \u2014 it provides a complete leisure experience with top-notch comfort. Each casino features stylish bars and restaurants where visitors can enjoy diverse cuisine and drinks. The popular Getaway Restaurant serves everything from light snacks to gourmet dinners, while bars offer cocktails and curated wine lists. It\u2019s the perfect spot to take a break between games or spend an evening with friends.\n<\/p>\n<br>\n<p> For out-of-town guests, partner hotels nearby ensure convenient accommodation and extra services, including shuttle options to the casino. After an exciting night, visitors can relax in comfortable rooms and return to the fun the next day. The casino also includes lounge areas for those seeking a calm retreat, where they can unwind with a drink or socialize in a cozy setting.\n<\/p>\n<br>\n<p> Shorelines Casino focuses on a holistic experience: gaming, dining, nightlife, and comfortable lodging. It\u2019s a destination where you can spend the entire day enjoying luxury and entertainment.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Relaxation Spots at Shorelines Casino\n\n<\/h4>\n\n\n        <ul>\n            <li>\u2022 Getaway Restaurant \u2014 a restaurant with a diverse menu and cozy ambiance.\n<\/li>\n            <li>\u2022 Casino Bar \u2014 cocktails, wines, and snacks for the evening.\n<\/li>\n            <li>\u2022 Lounge Areas \u2014 comfortable spaces for relaxation and socializing.\n<\/li>\n            <li>\u2022 Partner Hotels \u2014 convenient accommodations near the casino.\n\n<\/li>\n\t \n        <\/ul><br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "How do I get the welcome bonus?",
+                    "answer": "It is credited automatically after registration and first deposit.\n\n\n"
+                },
+                {
+                    "title": "What payment methods are available?",
+                    "answer": "Credit cards, e-wallets, and online payment systems are accepted.\n\n\n"
+                },
+                {
+                    "title": "Are there betting limits?",
+                    "answer": "Yes, minimum and maximum bets depend on the game type.\n\n\n"
+                },
+                {
+                    "title": "Can I book a hotel through the casino?",
+                    "answer": "Yes, partner hotels are available near casino locations.\n\n\n"
+                },
+                {
+                    "title": "How can I withdraw winnings?",
+                    "answer": "Withdrawals are processed via the same method as deposits after verification.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/333",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Shorelines Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
